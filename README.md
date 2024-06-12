@@ -2,7 +2,7 @@
 
 Meu nome é Afonso vargem
 
-- Estou estudando o alura
+- Estou estudando o [Alura](https://ww.alura.com.br)
 - Estou me desenvolvendo no javascrpit
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
